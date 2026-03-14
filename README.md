@@ -1,2 +1,10 @@
-# miami-trip-planning
-Repository for planning Miami Tech Summit trip
+# Miami Trip Planning
+
+## Purpose
+Preparation for Miami Tech Summit conference
+
+## Contents
+- Weather Alerts: docs/weather_alerts.md
+- Weather Forecast: docs/weather_forecast.md  
+- Miami Information: docs/miami_info.md
+- Travel Tips: docs/travel_tips.md
